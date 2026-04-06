@@ -4,10 +4,11 @@ background:#f4f4f4;
 text-align:center;
 }
 
-header{
-background:#00ff00;
-color:white;
-padding:20px;
+#header {
+background-color: #5c755e;
+margin: 10px;
+height: 90px;
+border-radius: 5px;
 }
 
 .phones{
