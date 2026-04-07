@@ -1,6 +1,9 @@
 body{
 font-family: Arial;
-background:#f4f4f4;
+background-color: #9c9f84;
+  margin: 0px;
+font-family: Verdana, Georgia, serif;
+font-size: 14px;
 text-align:center;
 }
 
@@ -10,7 +13,17 @@ margin: 10px;
 height: 90px;
 border-radius: 5px;
 }
+.main {
+background-color: #e5e4d7;
 
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+}
 .phones{
 display:flex;
 justify-content:center;
@@ -37,6 +50,20 @@ background:green;
 color:white;
 text-decoration:none;
 border-radius:5px;
+}
+
+.imagesidebar {
+width: 300px;
+float: right;
+border-radius: 5px;
+margin-left: 10px; margin-right: 10px;
+margin-top:  0px; margin-bottom: 10px;
+clear: right;
+opacity: 1.0;
+transition: opacity 0.5s ease-in-out;
+}
+.imagesidebar:hover {
+	opacity: 0.4;
 }
 
 footer{
