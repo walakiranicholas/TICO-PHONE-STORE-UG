@@ -34,7 +34,7 @@ background-color: #000;
 }
 
 .main {
-background-color: #red;
+background:red;
 
 margin-left: 10px;
 margin-right: 10px;
@@ -67,7 +67,7 @@ display:inline-block;
 margin-top:10px;
 padding:10px 20px;
 background:green;
-color:white;
+color:orangr;
 text-decoration:none;
 border-radius:5px;
 }
